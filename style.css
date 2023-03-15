@@ -194,6 +194,8 @@ footer {
 
 .logo>img {
     width: 50px;
-    margin-left: 104vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
